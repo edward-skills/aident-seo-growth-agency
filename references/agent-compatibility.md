@@ -5,13 +5,13 @@ The portable entrypoint is `SKILL.md` in the complete **aident-seo-growth-agency
 ## Host setup
 
 ```bash
-npx skills add Edward-J-create/aident-seo-growth-agency --skill aident-seo-growth-agency
+npx skills add edward-skills/aident-seo-growth-agency --skill aident-seo-growth-agency
 ```
 
 Choose the host in the installer. An optional explicit project installation is:
 
 ```bash
-npx skills add Edward-J-create/aident-seo-growth-agency --skill aident-seo-growth-agency \
+npx skills add edward-skills/aident-seo-growth-agency --skill aident-seo-growth-agency \
   --agent codex claude-code cursor opencode
 ```
 
@@ -27,7 +27,7 @@ A portable request for a personal Agent:
 
 ```text
 Obtain the complete aident-seo-growth-agency Skill package from
-https://github.com/Edward-J-create/aident-seo-growth-agency.
+https://github.com/edward-skills/aident-seo-growth-agency.
 Read SKILL.md and the referenced modules needed for my task; do not replace the
 workflow with a summary or omit its scripts, templates, assets and checks.
 Use your available capabilities and authorized accounts to carry out my request.

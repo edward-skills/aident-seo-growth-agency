@@ -20,13 +20,13 @@
 ### 安装完整 Skill
 
 ```bash
-npx skills add https://github.com/Edward-J-create/aident-seo-growth-agency --skill aident-seo-growth-agency
+npx skills add https://github.com/edward-skills/aident-seo-growth-agency --skill aident-seo-growth-agency
 ```
 
 也可以克隆后放入 Agent 的技能目录。以下为 Codex 的首次安装示例；如果目标已存在，先备份、比较，不要覆盖未保存的本地改动：
 
 ```bash
-git clone https://github.com/Edward-J-create/aident-seo-growth-agency.git
+git clone https://github.com/edward-skills/aident-seo-growth-agency.git
 mkdir -p ~/.codex/skills
 cp -R aident-seo-growth-agency ~/.codex/skills/aident-seo-growth-agency
 ```
