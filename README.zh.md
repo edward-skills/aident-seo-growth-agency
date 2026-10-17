@@ -1,6 +1,8 @@
 # Aident SEO Growth Agency
 
-> **Current use / 当前授权：Invocation-only.** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。Third-party/font rights and historical MIT grants are retained. [License](LICENSE.md) · [Agent setup, Muse AI & Grok Bot](references/agent-compatibility.md) · [Version boundary](references/licensing-history.md)
+> **Current use: invocation-only.** Install and invoke for your own or client projects; use the resulting outputs. Redistribution, resale and publication of modified Skill packages are not authorized. Historical permissions and separately licensed materials retain their terms.
+>
+> **当前授权：仅调用使用。** 可安装、调用并使用生成结果；不授权转售、再分发或发布修改版 Skill。历史授权与单独许可的素材条款继续有效。 [License](LICENSE.md) · [Agent setup, Muse AI & Grok Bot](references/agent-compatibility.md) · [Version boundary](references/licensing-history.md)
 
 
 [English](README.md) · [Agent 指令](SKILL.md) · [工具能力与替补](references/search-and-crawl-fallbacks.md) · [维护与校验](CONTRIBUTING.md) · [授权说明](NOTICE.md)
@@ -18,13 +20,13 @@
 ### 安装完整 Skill
 
 ```bash
-npx skills add https://github.com/Edward-J-create/aident-seo-growth-agency --skill aident-seo-growth-agency
+npx skills add https://github.com/edward-skills/aident-seo-growth-agency --skill aident-seo-growth-agency
 ```
 
 也可以克隆后放入 Agent 的技能目录。以下为 Codex 的首次安装示例；如果目标已存在，先备份、比较，不要覆盖未保存的本地改动：
 
 ```bash
-git clone https://github.com/Edward-J-create/aident-seo-growth-agency.git
+git clone https://github.com/edward-skills/aident-seo-growth-agency.git
 mkdir -p ~/.codex/skills
 cp -R aident-seo-growth-agency ~/.codex/skills/aident-seo-growth-agency
 ```
