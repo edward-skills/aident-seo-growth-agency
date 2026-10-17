@@ -1,6 +1,11 @@
 # Rights and third-party notices
 
-This repository packages the Aident SEO Growth Agency for inspection and installation. Public visibility alone does not grant an open-source license to the repository as a whole. No repository-wide license is declared by this release; additional reuse or redistribution permissions should be clarified with the rights holder. Do not assume the font licenses license the workflow or report design.
+## Current permission (2026-10-17)
+
+First-party Skill materials use [LICENSE.md](LICENSE.md). This update declares invocation permission for current first-party Materials. It does not change third-party/font licenses or grant additional trademark/client-asset rights. Third-party fonts, trademarks and user/client assets retain their own rights.
+
+
+This repository packages the Aident SEO Growth Agency for inspection and installation. Public visibility alone does not grant an open-source license to the repository as a whole. Current first-party materials follow LICENSE.md; additional redistribution or derivative Skill permissions require separate authorization. Do not assume the font licenses license the workflow or report design.
 
 ## Fonts
 
@@ -26,4 +31,4 @@ Example domains, CSV values and briefs are synthetic teaching fixtures, not rese
 
 ## 中文摘要
 
-仓库公开不等于整个项目已获开源许可；本次未擅自增加仓库级 LICENSE。三套字体分别遵循随包保留的 OFL。工具商标、服务权限与费用归各服务方管理。报告视觉独立封装，不含 PPT 品牌素材。样例均为合成数据；客户报告、私有数据和凭证不应提交到公开仓库。
+仓库公开不等于整个项目已获开源许可；当前第一方 Skill 采用 LICENSE.md 中的仅调用许可。三套字体分别遵循随包保留的 OFL。工具商标、服务权限与费用归各服务方管理。报告视觉独立封装，不含 PPT 品牌素材。样例均为合成数据；客户报告、私有数据和凭证不应提交到公开仓库。

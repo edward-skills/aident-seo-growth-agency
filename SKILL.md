@@ -1,9 +1,14 @@
 ---
 name: aident-seo-growth-agency
 description: Plan, audit, draft, safely implement, and validate a complete SEO growth program for any brand website using first-party data, competitor research, technical SEO, keyword clustering, information architecture, content briefs, and Aident Loadout integrations such as Firecrawl, Ahrefs, GSC, Brand Radar, Shopify, and other CMSs. Use when a user provides a brand, website URL/domain, product or service information, market, language, or competitors and asks for an SEO audit, migration, redesign, content plan, competitive gap, ecommerce SEO, local SEO, SaaS SEO, B2B SEO, implementation workflow, or a polished standalone HTML SEO report. Works with Shopify, WordPress, Webflow, headless/custom sites, or URL-only public audits and supports analysis-only, strategy, draft/preview, approved implementation, and post-launch validation modes.
+license: Proprietary. LICENSE.md contains the invocation-only terms.
 ---
 
+
 # Aident SEO Growth Agency
+
+For host setup, Meta Muse AI / Grok Bot capability boundaries and current usage rights, see [cross-agent use](references/agent-compatibility.md). Follow the production workflow below unchanged.
+
 
 Build an evidence-backed SEO operating plan that can be reused for ecommerce, SaaS, B2B, local services, publishers, education, and regulated/YMYL brands. A CMS connection is optional: a public URL plus brand information is enough for a read-only audit and recommendation package. Adapt page types and scoring to the business; keep the research, evidence, approval, and validation controls constant.
 
